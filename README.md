@@ -26,6 +26,7 @@
 - 更改时间格式为24时制并新增年月日显示
 - 增加了Token管理
 - 新增CFnew自动更新引用url
+- 新增支持国旗 国家
 
 ![alt text](image/Light1.png)
 ![alt text](image/Light2.png)
